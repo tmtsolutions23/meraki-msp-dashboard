@@ -1,0 +1,541 @@
+{
+  "MX60": {
+    "eolDate": "2019-08-01",
+    "eosDate": "2024-08-01",
+    "replacement": "MX67",
+    "replacementLicense": "LIC-MX67-ENT",
+    "category": "appliance"
+  },
+  "MX60W": {
+    "eolDate": "2019-08-01",
+    "eosDate": "2024-08-01",
+    "replacement": "MX67W",
+    "replacementLicense": "LIC-MX67W-ENT",
+    "category": "appliance"
+  },
+  "MX64": {
+    "eolDate": "2024-07-01",
+    "eosDate": "2029-07-31",
+    "replacement": "MX68",
+    "replacementLicense": "LIC-MX68-ENT",
+    "category": "appliance"
+  },
+  "MX64W": {
+    "eolDate": "2024-07-01",
+    "eosDate": "2029-07-31",
+    "replacement": "MX68W",
+    "replacementLicense": "LIC-MX68W-ENT",
+    "category": "appliance"
+  },
+  "MX65": {
+    "eolDate": "2020-04-01",
+    "eosDate": "2025-04-01",
+    "replacement": "MX67",
+    "replacementLicense": "LIC-MX67-ENT",
+    "category": "appliance"
+  },
+  "MX65W": {
+    "eolDate": "2020-04-01",
+    "eosDate": "2025-04-01",
+    "replacement": "MX67W",
+    "replacementLicense": "LIC-MX67W-ENT",
+    "category": "appliance"
+  },
+  "MX80": {
+    "eolDate": "2019-08-01",
+    "eosDate": "2024-08-01",
+    "replacement": "MX95",
+    "replacementLicense": "LIC-MX95-ENT",
+    "category": "appliance"
+  },
+  "MX84": {
+    "eolDate": "2024-07-01",
+    "eosDate": "2029-07-31",
+    "replacement": "MX85",
+    "replacementLicense": "LIC-MX85-ENT",
+    "category": "appliance"
+  },
+  "MX100": {
+    "eolDate": "2024-07-01",
+    "eosDate": "2029-07-31",
+    "replacement": "MX105",
+    "replacementLicense": "LIC-MX105-ENT",
+    "category": "appliance"
+  },
+  "MX400": {
+    "eolDate": "2022-01-01",
+    "eosDate": "2027-01-01",
+    "replacement": "MX450",
+    "replacementLicense": "LIC-MX450-ENT",
+    "category": "appliance"
+  },
+  "MX600": {
+    "eolDate": "2022-01-01",
+    "eosDate": "2027-01-01",
+    "replacement": "MX450",
+    "replacementLicense": "LIC-MX450-ENT",
+    "category": "appliance"
+  },
+  "Z1": {
+    "eolDate": "2019-11-01",
+    "eosDate": "2024-11-01",
+    "replacement": "Z4",
+    "replacementLicense": "LIC-Z4-ENT",
+    "category": "appliance"
+  },
+  "Z3": {
+    "eolDate": "2024-07-01",
+    "eosDate": "2029-07-31",
+    "replacement": "Z4",
+    "replacementLicense": "LIC-Z4-ENT",
+    "category": "appliance"
+  },
+  "Z3C": {
+    "eolDate": "2024-07-01",
+    "eosDate": "2029-07-31",
+    "replacement": "Z4C",
+    "replacementLicense": "LIC-Z4C-ENT",
+    "category": "appliance"
+  },
+  "MS220-8": {
+    "eolDate": "2020-10-01",
+    "eosDate": "2025-10-01",
+    "replacement": "MS130-8",
+    "replacementLicense": "LIC-MS130-8",
+    "category": "switch"
+  },
+  "MS220-8P": {
+    "eolDate": "2020-10-01",
+    "eosDate": "2025-10-01",
+    "replacement": "MS130-8P",
+    "replacementLicense": "LIC-MS130-8P",
+    "category": "switch"
+  },
+  "MS220-24": {
+    "eolDate": "2020-10-01",
+    "eosDate": "2025-10-01",
+    "replacement": "MS130-24",
+    "replacementLicense": "LIC-MS130-24",
+    "category": "switch"
+  },
+  "MS220-24P": {
+    "eolDate": "2020-10-01",
+    "eosDate": "2025-10-01",
+    "replacement": "MS130-24P",
+    "replacementLicense": "LIC-MS130-24P",
+    "category": "switch"
+  },
+  "MS220-48": {
+    "eolDate": "2020-10-01",
+    "eosDate": "2025-10-01",
+    "replacement": "MS130-48",
+    "replacementLicense": "LIC-MS130-48",
+    "category": "switch"
+  },
+  "MS220-48FP": {
+    "eolDate": "2020-10-01",
+    "eosDate": "2025-10-01",
+    "replacement": "MS130-48FP",
+    "replacementLicense": "LIC-MS130-48FP",
+    "category": "switch"
+  },
+  "MS220-48LP": {
+    "eolDate": "2020-10-01",
+    "eosDate": "2025-10-01",
+    "replacement": "MS130-48LP",
+    "replacementLicense": "LIC-MS130-48LP",
+    "category": "switch"
+  },
+  "MS320-24": {
+    "eolDate": "2021-04-01",
+    "eosDate": "2026-04-01",
+    "replacement": "MS350-24",
+    "replacementLicense": "LIC-MS350-24",
+    "category": "switch"
+  },
+  "MS320-24P": {
+    "eolDate": "2021-04-01",
+    "eosDate": "2026-04-01",
+    "replacement": "MS350-24P",
+    "replacementLicense": "LIC-MS350-24P",
+    "category": "switch"
+  },
+  "MS320-48": {
+    "eolDate": "2021-04-01",
+    "eosDate": "2026-04-01",
+    "replacement": "MS350-48",
+    "replacementLicense": "LIC-MS350-48",
+    "category": "switch"
+  },
+  "MS320-48FP": {
+    "eolDate": "2021-04-01",
+    "eosDate": "2026-04-01",
+    "replacement": "MS350-48FP",
+    "replacementLicense": "LIC-MS350-48FP",
+    "category": "switch"
+  },
+  "MS320-48LP": {
+    "eolDate": "2021-04-01",
+    "eosDate": "2026-04-01",
+    "replacement": "MS350-48LP",
+    "replacementLicense": "LIC-MS350-48LP",
+    "category": "switch"
+  },
+  "MS420-24": {
+    "eolDate": "2021-10-01",
+    "eosDate": "2026-10-01",
+    "replacement": "MS450-12",
+    "replacementLicense": "LIC-MS450-12",
+    "category": "switch"
+  },
+  "MS420-48": {
+    "eolDate": "2021-10-01",
+    "eosDate": "2026-10-01",
+    "replacement": "MS450-48",
+    "replacementLicense": "LIC-MS450-48",
+    "category": "switch"
+  },
+  "MS120-8": {
+    "eolDate": "2025-04-12",
+    "eosDate": "2030-04-12",
+    "replacement": "MS130-8",
+    "replacementLicense": "LIC-MS130-8",
+    "category": "switch"
+  },
+  "MS120-8FP": {
+    "eolDate": "2025-04-12",
+    "eosDate": "2030-04-12",
+    "replacement": "MS130-8FP",
+    "replacementLicense": "LIC-MS130-8FP",
+    "category": "switch"
+  },
+  "MS120-8LP": {
+    "eolDate": "2025-04-12",
+    "eosDate": "2030-04-12",
+    "replacement": "MS130-8LP",
+    "replacementLicense": "LIC-MS130-8LP",
+    "category": "switch"
+  },
+  "MS120-24": {
+    "eolDate": "2025-04-12",
+    "eosDate": "2030-04-12",
+    "replacement": "MS130-24",
+    "replacementLicense": "LIC-MS130-24",
+    "category": "switch"
+  },
+  "MS120-24P": {
+    "eolDate": "2025-04-12",
+    "eosDate": "2030-04-12",
+    "replacement": "MS130-24P",
+    "replacementLicense": "LIC-MS130-24P",
+    "category": "switch"
+  },
+  "MS120-48": {
+    "eolDate": "2025-04-12",
+    "eosDate": "2030-04-12",
+    "replacement": "MS130-48",
+    "replacementLicense": "LIC-MS130-48",
+    "category": "switch"
+  },
+  "MS120-48FP": {
+    "eolDate": "2025-04-12",
+    "eosDate": "2030-04-12",
+    "replacement": "MS130-48FP",
+    "replacementLicense": "LIC-MS130-48FP",
+    "category": "switch"
+  },
+  "MS120-48LP": {
+    "eolDate": "2025-04-12",
+    "eosDate": "2030-04-12",
+    "replacement": "MS130-48LP",
+    "replacementLicense": "LIC-MS130-48LP",
+    "category": "switch"
+  },
+  "MR12": {
+    "eolDate": "2016-08-01",
+    "eosDate": "2021-08-01",
+    "replacement": "MR36",
+    "replacementLicense": "LIC-MR36-ENT",
+    "category": "wireless"
+  },
+  "MR16": {
+    "eolDate": "2016-08-01",
+    "eosDate": "2021-08-01",
+    "replacement": "MR36",
+    "replacementLicense": "LIC-MR36-ENT",
+    "category": "wireless"
+  },
+  "MR18": {
+    "eolDate": "2018-08-01",
+    "eosDate": "2023-08-01",
+    "replacement": "MR36",
+    "replacementLicense": "LIC-MR36-ENT",
+    "category": "wireless"
+  },
+  "MR24": {
+    "eolDate": "2016-08-01",
+    "eosDate": "2021-08-01",
+    "replacement": "MR46",
+    "replacementLicense": "LIC-MR46-ENT",
+    "category": "wireless"
+  },
+  "MR26": {
+    "eolDate": "2018-08-01",
+    "eosDate": "2023-08-01",
+    "replacement": "MR46",
+    "replacementLicense": "LIC-MR46-ENT",
+    "category": "wireless"
+  },
+  "MR32": {
+    "eolDate": "2020-10-01",
+    "eosDate": "2025-10-01",
+    "replacement": "MR36",
+    "replacementLicense": "LIC-MR36-ENT",
+    "category": "wireless"
+  },
+  "MR33": {
+    "eolDate": "2023-02-01",
+    "eosDate": "2028-02-01",
+    "replacement": "MR36",
+    "replacementLicense": "LIC-MR36-ENT",
+    "category": "wireless"
+  },
+  "MR34": {
+    "eolDate": "2018-08-01",
+    "eosDate": "2023-08-01",
+    "replacement": "MR46",
+    "replacementLicense": "LIC-MR46-ENT",
+    "category": "wireless"
+  },
+  "MR42": {
+    "eolDate": "2023-02-01",
+    "eosDate": "2028-02-01",
+    "replacement": "MR46",
+    "replacementLicense": "LIC-MR46-ENT",
+    "category": "wireless"
+  },
+  "MR42E": {
+    "eolDate": "2023-02-01",
+    "eosDate": "2028-02-01",
+    "replacement": "MR46E",
+    "replacementLicense": "LIC-MR46E-ENT",
+    "category": "wireless"
+  },
+  "MR52": {
+    "eolDate": "2023-02-01",
+    "eosDate": "2028-02-01",
+    "replacement": "MR56",
+    "replacementLicense": "LIC-MR56-ENT",
+    "category": "wireless"
+  },
+  "MR53": {
+    "eolDate": "2023-02-01",
+    "eosDate": "2028-02-01",
+    "replacement": "MR57",
+    "replacementLicense": "LIC-MR57-ENT",
+    "category": "wireless"
+  },
+  "MR53E": {
+    "eolDate": "2023-02-01",
+    "eosDate": "2028-02-01",
+    "replacement": "MR57",
+    "replacementLicense": "LIC-MR57-ENT",
+    "category": "wireless"
+  },
+  "MR62": {
+    "eolDate": "2018-08-01",
+    "eosDate": "2023-08-01",
+    "replacement": "MR76",
+    "replacementLicense": "LIC-MR76-ENT",
+    "category": "wireless"
+  },
+  "MR66": {
+    "eolDate": "2018-08-01",
+    "eosDate": "2023-08-01",
+    "replacement": "MR86",
+    "replacementLicense": "LIC-MR86-ENT",
+    "category": "wireless"
+  },
+  "MR72": {
+    "eolDate": "2020-10-01",
+    "eosDate": "2025-10-01",
+    "replacement": "MR76",
+    "replacementLicense": "LIC-MR76-ENT",
+    "category": "wireless"
+  },
+  "MR74": {
+    "eolDate": "2023-02-01",
+    "eosDate": "2028-02-01",
+    "replacement": "MR78",
+    "replacementLicense": "LIC-MR78-ENT",
+    "category": "wireless"
+  },
+  "MR84": {
+    "eolDate": "2023-02-01",
+    "eosDate": "2028-02-01",
+    "replacement": "MR86",
+    "replacementLicense": "LIC-MR86-ENT",
+    "category": "wireless"
+  },
+  "MV12N": {
+    "eolDate": "2024-01-01",
+    "eosDate": "2029-01-01",
+    "replacement": "MV13",
+    "replacementLicense": "LIC-MV13-ENT",
+    "category": "camera"
+  },
+  "MV12W": {
+    "eolDate": "2024-01-01",
+    "eosDate": "2029-01-01",
+    "replacement": "MV13",
+    "replacementLicense": "LIC-MV13-ENT",
+    "category": "camera"
+  },
+  "MV12WE": {
+    "eolDate": "2024-01-01",
+    "eosDate": "2029-01-01",
+    "replacement": "MV13M",
+    "replacementLicense": "LIC-MV13M-ENT",
+    "category": "camera"
+  },
+  "MV21": {
+    "eolDate": "2022-07-01",
+    "eosDate": "2027-07-01",
+    "replacement": "MV22",
+    "replacementLicense": "LIC-MV22-ENT",
+    "category": "camera"
+  },
+  "MV71": {
+    "eolDate": "2022-07-01",
+    "eosDate": "2027-07-01",
+    "replacement": "MV72",
+    "replacementLicense": "LIC-MV72-ENT",
+    "category": "camera"
+  },
+  "MV22": {
+    "eolDate": "2024-10-01",
+    "eosDate": "2029-10-01",
+    "replacement": "MV23",
+    "replacementLicense": "LIC-MV23-ENT",
+    "category": "camera"
+  },
+  "MV72": {
+    "eolDate": "2024-10-01",
+    "eosDate": "2029-10-01",
+    "replacement": "MV73",
+    "replacementLicense": "LIC-MV73-ENT",
+    "category": "camera"
+  },
+  "MS225-24": {
+    "eolDate": "2026-04-30",
+    "eosDate": "2031-04-30",
+    "replacement": "MS150-24",
+    "replacementLicense": "LIC-MS150-24",
+    "category": "switch"
+  },
+  "MS225-24P": {
+    "eolDate": "2026-04-30",
+    "eosDate": "2031-04-30",
+    "replacement": "MS150-24P",
+    "replacementLicense": "LIC-MS150-24P",
+    "category": "switch"
+  },
+  "MS225-48": {
+    "eolDate": "2026-04-30",
+    "eosDate": "2031-04-30",
+    "replacement": "MS150-48",
+    "replacementLicense": "LIC-MS150-48",
+    "category": "switch"
+  },
+  "MS225-48FP": {
+    "eolDate": "2026-04-30",
+    "eosDate": "2031-04-30",
+    "replacement": "MS150-48FP",
+    "replacementLicense": "LIC-MS150-48FP",
+    "category": "switch"
+  },
+  "MS225-48LP": {
+    "eolDate": "2026-04-30",
+    "eosDate": "2031-04-30",
+    "replacement": "MS150-48LP",
+    "replacementLicense": "LIC-MS150-48LP",
+    "category": "switch"
+  },
+  "MS350-24": {
+    "eolDate": "2025-08-08",
+    "eosDate": "2030-08-08",
+    "replacement": "MS355-24",
+    "replacementLicense": "LIC-MS355-24",
+    "category": "switch"
+  },
+  "MS350-24P": {
+    "eolDate": "2025-08-08",
+    "eosDate": "2030-08-08",
+    "replacement": "MS355-24P",
+    "replacementLicense": "LIC-MS355-24P",
+    "category": "switch"
+  },
+  "MS350-48": {
+    "eolDate": "2025-08-08",
+    "eosDate": "2030-08-08",
+    "replacement": "MS355-48",
+    "replacementLicense": "LIC-MS355-48",
+    "category": "switch"
+  },
+  "MS350-48FP": {
+    "eolDate": "2025-08-08",
+    "eosDate": "2030-08-08",
+    "replacement": "MS355-48FP",
+    "replacementLicense": "LIC-MS355-48FP",
+    "category": "switch"
+  },
+  "MS350-48LP": {
+    "eolDate": "2025-08-08",
+    "eosDate": "2030-08-08",
+    "replacement": "MS355-48LP",
+    "replacementLicense": "LIC-MS355-48LP",
+    "category": "switch"
+  },
+  "MR30H": {
+    "eolDate": "2020-10-01",
+    "eosDate": "2025-10-01",
+    "replacement": "MR36H",
+    "replacementLicense": "LIC-MR36H-ENT",
+    "category": "wireless"
+  },
+  "MR45": {
+    "eolDate": "2025-07-21",
+    "eosDate": "2030-07-21",
+    "replacement": "MR47",
+    "replacementLicense": "LIC-MR47-ENT",
+    "category": "wireless"
+  },
+  "MR55": {
+    "eolDate": "2025-07-21",
+    "eosDate": "2030-07-21",
+    "replacement": "MR57",
+    "replacementLicense": "LIC-MR57-ENT",
+    "category": "wireless"
+  },
+  "MR36": {
+    "eolDate": "2025-07-21",
+    "eosDate": "2030-07-21",
+    "replacement": "MR38",
+    "replacementLicense": "LIC-MR38-ENT",
+    "category": "wireless"
+  },
+  "MR46": {
+    "eolDate": "2025-07-21",
+    "eosDate": "2030-07-21",
+    "replacement": "MR48",
+    "replacementLicense": "LIC-MR48-ENT",
+    "category": "wireless"
+  },
+  "MR56": {
+    "eolDate": "2025-07-21",
+    "eosDate": "2030-07-21",
+    "replacement": "MR58",
+    "replacementLicense": "LIC-MR58-ENT",
+    "category": "wireless"
+  }
+}
